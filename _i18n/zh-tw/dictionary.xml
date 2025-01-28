@@ -8751,4 +8751,7 @@
   <block id="31ef3dfd1e101bf5cf328ec387a10820" category="sidebar">複製Volume</block>
   <block id="41b4e5d916e26c9e0d32ceff6fd589ed" category="sidebar">管理營運</block>
   <block id="0c54aa2356b1ba19bf4386215c1829f9" category="sidebar">為什麼這些磁碟區與工作負載無關？</block>
+  <block id="fdaf387b2cf2a5e0708730deae924c52" category="section-title">11.80.1R3 版的新功能</block>
+  <block id="a372f5d0e522484d2807c2713feb9e59" category="paragraph">此版本僅包含輕微變更，且不含新功能或限制。如需此版本變更的詳細資訊，請參閱 README 檔案。</block>
+  <block id="cb495aee74d8e4c14850fb4a3882a508" category="section-title">11.80.1R2 版的新功能</block>
 </blocks>
