@@ -3394,7 +3394,6 @@
   <block id="92a98c57d8dff609da2fceddaeac27a4" category="paragraph">陣列設定包括：</block>
   <block id="9f6081850e27326c653ce13711fd1f40" category="list-text"><block ref="9f6081850e27326c653ce13711fd1f40" category="inline-link-macro-rx"></block></block>
   <block id="590d98531a06e067582f8f395c25ea9d" category="inline-link-macro">自動負載平衡</block>
-  <block id="3d92225d2ee8c33ffe2c15361da54d2f" category="list-text"><block ref="3d92225d2ee8c33ffe2c15361da54d2f" category="inline-link-macro-rx"></block></block>
   <block id="b07d4a5fc9bdc2d9e09fffa5409bbab4" category="inline-link-macro">附加功能</block>
   <block id="d9c3b504b15a55277f52a60d4aa86148" category="list-text"><block ref="d9c3b504b15a55277f52a60d4aa86148" category="inline-link-macro-rx"></block></block>
   <block id="919e659946b3b7994ecf9004d9cea4f8" category="inline-link-macro">磁碟機安全性</block>
@@ -8768,4 +8767,5 @@
   <block id="61badebbb11f4e021f76da582cc186bd" category="paragraph">8.x (U8)、9.x (U2)/ 64 位</block>
   <block id="343840ee4d85fca6a73c9e50358f9184" category="paragraph">2019、2022 / 64 位元</block>
   <block id="a625adde4feeab3aa4c85cef062cc2b4" category="paragraph">20.04、22.04 / 64 位元</block>
+  <block id="bc7dec44af17b73eb800d426c3a75c9f" category="list-text"><block ref="bc7dec44af17b73eb800d426c3a75c9f" category="inline-link-macro-rx"></block></block>
 </blocks>
